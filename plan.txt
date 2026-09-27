@@ -1,0 +1,14 @@
+1 db for events 
+1 db for dishes
+
+
+
+
+Dish dict:
+dis_name   -str
+dish_picture_url // implement later -str
+dish_restraunt -str
+dish_vegan -bool
+dish_-others //implement later
+dish_description  -str
+dish_calories   -int
